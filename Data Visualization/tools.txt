@@ -1,2 +1,5 @@
 Tools:
 PowerBI
+
+Metric:
+Count of new users that still makes transaction after a period of time by monthly basis.
