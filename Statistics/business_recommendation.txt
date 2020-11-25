@@ -1,0 +1,5 @@
+Business Recommendation
+
+From the data of the distribution of the probability for every user's total quantity purchased, we can see that most of the users purchased 5 products with the probability for them to buy more than 10 is less than 0.4% and it continues to decline.
+
+Based on that data, we can make a conclusion that an effort on increasing the number of users to purchase more products. There are several ways to achieve that goal, one of which, is to create a promotional event that gives the users more discount for more products they purchased. This event can be combined with, for example, the World Hunger Day (May 28) with a theme of giving and helping each others to create a better society (we can use "Traktir teman" or "Berbagi dengan yang membutuhkan").

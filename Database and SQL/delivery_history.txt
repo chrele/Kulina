@@ -1,0 +1,1 @@
+The insertion.sql doesn't have any data for the last table (ku_order_detail), while to retrieve the delivey history data, the data contained in the ku_order_detail are needed.
